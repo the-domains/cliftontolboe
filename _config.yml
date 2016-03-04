@@ -1,0 +1,28 @@
+name: cliftontolboe
+favicon: null
+layout_spectrum: 0.7490079056005925
+typography_spectrum: 0.6055676923133433
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.6122440912295133
+  lightness: 0.6971070219296962
+  saturation: 0.23840998206287622
+  rhythmicContrast: 0.5382451338227838
+purpose: []
