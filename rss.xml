@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[cliftontolboe]]></title>
         <description><![CDATA[cliftontolboe]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/cliftontolboe/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 04 Mar 2016 19:06:46 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 04 Mar 2016 19:51:37 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/cliftontolboe/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Street Art ]]></title>
+            <description><![CDATA[<h1>Street Art </h1>]]></description>
+            <link>https://thegrid.ai/cliftontolboe/street-art/index.html</link>
+            <guid isPermaLink="false">28522cce-3a83-474f-ad69-d135724f5e33</guid>
+            <pubDate>Fri, 04 Mar 2016 19:51:29 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f9c66c63-4ccb-4e4c-ad48-357f7554cde7.jpg">]]></description>
-            <link>undefinedfdf0f8f2-718a-4773-95f4-6a904bbedf76/index.html</link>
+            <link>https://thegrid.ai/cliftontolboe/fdf0f8f2-718a-4773-95f4-6a904bbedf76/index.html</link>
             <guid isPermaLink="false">fdf0f8f2-718a-4773-95f4-6a904bbedf76</guid>
             <pubDate>Fri, 04 Mar 2016 19:06:26 GMT</pubDate>
         </item>
