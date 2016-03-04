@@ -1,8 +1,7 @@
+name: cliftontolboe
+favicon: null
 layout_spectrum: 1
-opengraph:
-  image: null
-  type: null
-  appId: null
+typography_spectrum: 0.858754
 collections:
   - index:
       path: /
@@ -15,26 +14,27 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-purpose: []
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.2384099820628762
-  brandStrength: 0
-  lightness: 0.8125
   brandColors:
     - '#788187'
     - '#4B545B'
     - '#D1BB9A'
     - '#F3F3DE'
     - '#38B5B2'
-  rhythmicContrast: 0.75
-typography_spectrum: 0.858754
-cta:
-  bucket: null
-  version: null
-  domain: null
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-favicon: null
-name: cliftontolboe
+  brandStrength: 1
+  lightness: 0.5
+  saturation: 0.5
+  rhythmicContrast: 0.25
+purpose: []
