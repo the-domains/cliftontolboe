@@ -1,7 +1,7 @@
 name: cliftontolboe
 favicon: null
-layout_spectrum: 1
-typography_spectrum: 0.858754
+layout_spectrum: 0.27135
+typography_spectrum: 0.22646
 collections:
   - index:
       path: /
@@ -28,13 +28,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#fefefe'
-    - '#000004'
-    - '#737d87'
-    - '#46b0e0'
-    - '#fcdc12'
-  brandStrength: 0
-  lightness: 1
-  saturation: 0
-  rhythmicContrast: 0
+    - '#f5f5f5'
+    - '#070707'
+    - '#acacac'
+    - '#303030'
+    - '#6f6f6f'
+  brandStrength: 1
+  lightness: 0.5
+  saturation: 0.5
+  rhythmicContrast: 1
 purpose: []
